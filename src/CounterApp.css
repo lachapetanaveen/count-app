@@ -1,0 +1,31 @@
+/* CounterApp.css */
+
+.counter-app {
+    text-align: center;
+    margin: 0 auto;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 110px;
+  }
+  
+  .counter {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .counter-buttons button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .counter-buttons button:hover {
+    background-color: #45a049;
+  }
+  
